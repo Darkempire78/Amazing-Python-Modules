@@ -4,7 +4,7 @@
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: |------------- |
-|[Aiohttp](https://pypi.org/project/aiohttp/)|Asynchronous HTTP client/server framework for asyncio and Python.|Async|False|![](https://img.shields.io/github/last-commit/aio-libs/aiohttp?style=for-the-badge&label=)|
+|[Aiohttp](https://pypi.org/project/aiohttp/)|Asynchronous HTTP client/server framework for asyncio.|Async|False|![](https://img.shields.io/github/last-commit/aio-libs/aiohttp?style=for-the-badge&label=)|
 |[Requests](https://pypi.org/project/requests/)|A simple, yet elegant HTTP library.|Sync|False|![](https://img.shields.io/github/last-commit/psf/requests?style=for-the-badge&label=)|
 
 ## MUSIC
@@ -26,7 +26,7 @@
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: |------------- |
-|[Discord.py](https://pypi.org/project/discord.py/)|An API wrapper for Discord written in Python.|Async|True|![](https://img.shields.io/github/last-commit/Rapptz/discord.py?style=for-the-badge&label=)|
+|[Discord.py](https://pypi.org/project/discord.py/)|An API wrapper for Discord.|Async|True|![](https://img.shields.io/github/last-commit/Rapptz/discord.py?style=for-the-badge&label=)|
 
 ## USER INTERFACE
 
@@ -38,7 +38,7 @@
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: |------------- |
-|[Nude.py](https://github.com/hhatto/nude.py)|Nudity detection with Python.|Sync|False|![](https://img.shields.io/github/last-commit/hhatto/nude.py?style=for-the-badge&label=)|
+|[Nude.py](https://github.com/hhatto/nude.py)|Nudity detection.|Sync|False|![](https://img.shields.io/github/last-commit/hhatto/nude.py?style=for-the-badge&label=)|
 
 ### TEMPLATE
 ```|[Name]()|Description|Sync/Async|True/False|![](https://img.shields.io/github/last-commit/USER/REPOSITORY?style=for-the-badge&label=)|```
