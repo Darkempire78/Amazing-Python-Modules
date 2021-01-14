@@ -5,13 +5,13 @@ A sorted list of the best python modules, famous or not.
 * [Database](https://github.com/Darkempire78/Amazing-Python-Modules#database)
 * [Downloader](https://github.com/Darkempire78/Amazing-Python-Modules#downloader)
 * [Image](https://github.com/Darkempire78/Amazing-Python-Modules#image)
+* [Machin learning](https://github.com/Darkempire78/Amazing-Python-Modules#machin-learning)
 * [Music](https://github.com/Darkempire78/Amazing-Python-Modules#music)
-* []()
-* []()
 * []()
 * [Request / Web](https://github.com/Darkempire78/Amazing-Python-Modules#request--web)
 * [Social media](https://github.com/Darkempire78/Amazing-Python-Modules#social-media)
 * [User interface](https://github.com/Darkempire78/Amazing-Python-Modules#user-interface)
+* [Video editing](https://github.com/Darkempire78/Amazing-Python-Modules#video-editing)
 * [Others](https://github.com/Darkempire78/Amazing-Python-Modules#others)
 
 
@@ -36,11 +36,18 @@ A sorted list of the best python modules, famous or not.
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Nude.py](https://github.com/hhatto/nude.py)|Nudity detection.|Sync|False|![](https://img.shields.io/github/last-commit/hhatto/nude.py?style=for-the-badge&label=)|
 
+## MACHIN LEARNING
+
+| NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
+| ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Profanity check](https://github.com/dimitrismistriotis/profanity-check)|A fast, robust library to check for offensive language in strings.|Sync|False|![](https://img.shields.io/github/last-commit/dimitrismistriotis/profanity-check?style=for-the-badge&label=)|
+
 ## MUSIC
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Spotipy](https://github.com/plamere/spotipy/)|A light weight library for the Spotify Web API.|Sync|True|![](https://img.shields.io/github/last-commit/plamere/spotipy?style=for-the-badge&label=)|
+|[Tekore](https://github.com/felix-hilden/tekore)|Spotify Web API client.|Sync/Async|True|![](https://img.shields.io/github/last-commit/felix-hilden/tekore?style=for-the-badge&label=)|
 |[Soundcloud lib](https://pypi.org/project/soundcloud-lib/)|Soundcloud API wrapper for tracks & playlists.|Sync/Async|False|![](https://img.shields.io/github/last-commit/3jackdaws/soundcloud-lib?style=for-the-badge&label=)|
 
 ## REQUEST / WEB
@@ -62,12 +69,20 @@ A sorted list of the best python modules, famous or not.
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Rich](https://github.com/willmcgugan/rich)|A library for rich text and beautiful formatting in the terminal.|Sync|False|![](https://img.shields.io/github/last-commit/willmcgugan/rich?style=for-the-badge&label=)|
+|[Pystray](https://github.com/moses-palmer/pystray)|This library allows you to create a system tray icon.|Sync|False|![](https://img.shields.io/github/last-commit/moses-palmer/pystray?style=for-the-badge&label=)|
+
+## VIDEO EDITING
+
+| NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
+| ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Moviepy](https://github.com/Zulko/moviepy)|Video editing.|Sync|False|![](https://img.shields.io/github/last-commit/Zulko/moviepy?style=for-the-badge&label=)|
 
 ## OTHERS
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Mee6 py api](https://github.com/hyperevo/mee6-py-api)|Unofficial API for Mee6.|Async|False|![](https://img.shields.io/github/last-commit/hyperevo/mee6-py-api?style=for-the-badge&label=)|
 
 
 ### TEMPLATE
-```|[Name]()|Description|Sync/Async|True/False|![](https://img.shields.io/github/last-commit/USER/REPOSITORY?style=for-the-badge&label=)|```
+```|[Name](link)|Description|Sync/Async|True/False|![](https://img.shields.io/github/last-commit/USER/REPOSITORY?style=for-the-badge&label=)|```
