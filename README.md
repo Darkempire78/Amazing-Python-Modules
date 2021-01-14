@@ -64,6 +64,8 @@ A sorted list of the best python modules, famous or not.
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Discord.py](https://pypi.org/project/discord.py/)|An API wrapper for Discord.|Async|True|![](https://img.shields.io/github/last-commit/Rapptz/discord.py?style=for-the-badge&label=)|
 |[Tweepy](https://github.com/tweepy/tweepy)|Create Twitter bot easier.|Sync/Async|True|![](https://img.shields.io/github/last-commit/tweepy/tweepy?style=for-the-badge&label=)|
+|[Praw](https://github.com/praw-dev/praw)|A package that allows for simple access to Reddit's API.|Sync|True|![](https://img.shields.io/github/last-commit/praw-dev/praw?style=for-the-badge&label=)|
+|[Asyncpraw](https://github.com/praw-dev/asyncpraw)|An asynchronous package that allows for simple access to Reddit's API.|Async|True|![](https://img.shields.io/github/last-commit/praw-dev/asyncpraw?style=for-the-badge&label=)|
 
 ## USER INTERFACE
 
