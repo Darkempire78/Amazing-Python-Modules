@@ -7,11 +7,11 @@ A sorted list of the best python modules, famous or not.
 * [Image](https://github.com/Darkempire78/Amazing-Python-Modules#image)
 * [Machin learning](https://github.com/Darkempire78/Amazing-Python-Modules#machin-learning)
 * [Music](https://github.com/Darkempire78/Amazing-Python-Modules#music)
-* []()
-* [Request / Web](https://github.com/Darkempire78/Amazing-Python-Modules#request--web)
+* [Request](https://github.com/Darkempire78/Amazing-Python-Modules#request)
 * [Social media](https://github.com/Darkempire78/Amazing-Python-Modules#social-media)
 * [User interface](https://github.com/Darkempire78/Amazing-Python-Modules#user-interface)
 * [Video editing](https://github.com/Darkempire78/Amazing-Python-Modules#video-editing)
+* [Web](https://github.com/Darkempire78/Amazing-Python-Modules#web)
 * [Others](https://github.com/Darkempire78/Amazing-Python-Modules#others)
 
 
@@ -35,6 +35,7 @@ A sorted list of the best python modules, famous or not.
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Nude.py](https://github.com/hhatto/nude.py)|Nudity detection.|Sync|False|![](https://img.shields.io/github/last-commit/hhatto/nude.py?style=for-the-badge&label=)|
+|[Augmentor](https://github.com/mdbloice/Augmentor)|Image augmentation library for machine learning.|Sync|False|![](https://img.shields.io/github/last-commit/mdbloice/Augmentor?style=for-the-badge&label=)|
 
 ## MACHIN LEARNING
 
@@ -50,7 +51,7 @@ A sorted list of the best python modules, famous or not.
 |[Tekore](https://github.com/felix-hilden/tekore)|Spotify Web API client.|Sync/Async|True|![](https://img.shields.io/github/last-commit/felix-hilden/tekore?style=for-the-badge&label=)|
 |[Soundcloud lib](https://pypi.org/project/soundcloud-lib/)|Soundcloud API wrapper for tracks & playlists.|Sync/Async|False|![](https://img.shields.io/github/last-commit/3jackdaws/soundcloud-lib?style=for-the-badge&label=)|
 
-## REQUEST / WEB
+## REQUEST
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
@@ -68,6 +69,7 @@ A sorted list of the best python modules, famous or not.
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Pywebview](https://github.com/r0x0r/pywebview)|Build GUI with JavaScript, HTML, and CSS.|Sync|False|![](https://img.shields.io/github/last-commit/r0x0r/pywebview?style=for-the-badge&label=)|
 |[Rich](https://github.com/willmcgugan/rich)|A library for rich text and beautiful formatting in the terminal.|Sync|False|![](https://img.shields.io/github/last-commit/willmcgugan/rich?style=for-the-badge&label=)|
 |[Pystray](https://github.com/moses-palmer/pystray)|This library allows you to create a system tray icon.|Sync|False|![](https://img.shields.io/github/last-commit/moses-palmer/pystray?style=for-the-badge&label=)|
 
@@ -77,10 +79,17 @@ A sorted list of the best python modules, famous or not.
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Moviepy](https://github.com/Zulko/moviepy)|Video editing.|Sync|False|![](https://img.shields.io/github/last-commit/Zulko/moviepy?style=for-the-badge&label=)|
 
+## WEB
+
+| NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
+| ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Flask](https://github.com/pallets/flask)|A micro framework for building web applications.|Sync|False|![](https://img.shields.io/github/last-commit/pallets/flask?style=for-the-badge&label=)|
+
 ## OTHERS
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Notify-py](https://github.com/ms7m/notify-py)|A simple module for sending cross-platform desktop notifications on Windows, macOS and Linux.|Sync|False|![](https://img.shields.io/github/last-commit/ms7m/notify-py?style=for-the-badge&label=)|
 |[Mee6 py api](https://github.com/hyperevo/mee6-py-api)|Unofficial API for Mee6.|Async|False|![](https://img.shields.io/github/last-commit/hyperevo/mee6-py-api?style=for-the-badge&label=)|
 
 
