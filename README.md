@@ -107,7 +107,7 @@ A sorted list of the best python modules, famous or not.
 
 # Contribute
 
-It is very simple to contribute to this repository. Just open a [Pull Request](https://github.com/Darkempire78/Amazing-Python-Modules/compare) and fill it in. 
+It is very simple to contribute to this repository. Just open a [Pull Request](https://github.com/Darkempire78/Amazing-Python-Modules/pulls) and fill it in. 
 Thanks to propose new modules to enrich this incredible list!
 
 ### TEMPLATE
