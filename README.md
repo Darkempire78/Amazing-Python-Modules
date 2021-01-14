@@ -6,7 +6,7 @@ A sorted list of the best python modules, famous or not.
 * [Database](https://github.com/Darkempire78/Amazing-Python-Modules#database)
 * [Downloader](https://github.com/Darkempire78/Amazing-Python-Modules#downloader)
 * [Image](https://github.com/Darkempire78/Amazing-Python-Modules#image)
-* [Machin learning](https://github.com/Darkempire78/Amazing-Python-Modules#machine-learning)
+* [Machine learning](https://github.com/Darkempire78/Amazing-Python-Modules#machine-learning)
 * [Music](https://github.com/Darkempire78/Amazing-Python-Modules#music)
 * [Request](https://github.com/Darkempire78/Amazing-Python-Modules#request)
 * [Social media](https://github.com/Darkempire78/Amazing-Python-Modules#social-media)
