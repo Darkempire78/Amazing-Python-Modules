@@ -15,7 +15,7 @@ A sorted list of the best python modules, famous or not.
 * [Web](https://github.com/Darkempire78/Amazing-Python-Modules#web)
 * [Others](https://github.com/Darkempire78/Amazing-Python-Modules#others)
 
-* [CONTRIBUTE](https://github.com/Darkempire78/Amazing-Python-Modules#contribute)
+- [**CONTRIBUTE**](https://github.com/Darkempire78/Amazing-Python-Modules#contribute)
 
 
 ## DATA
