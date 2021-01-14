@@ -107,5 +107,5 @@ A sorted list of the best python modules, famous or not.
 
 # Contribute
 
-It is very simple to contribute to this repository. Just open an [Issue](https://github.com/Darkempire78/Amazing-Python-Modules/pulls) and fill it in. 
+It is very simple to contribute to this repository. Just open an [Issue](https://github.com/Darkempire78/Amazing-Python-Modules/issues/new/choose) and fill it in. 
 Thanks to propose new modules to enrich this incredible list!
