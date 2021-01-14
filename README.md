@@ -6,7 +6,7 @@ A sorted list of the best python modules, famous or not.
 * [Database](https://github.com/Darkempire78/Amazing-Python-Modules#database)
 * [Downloader](https://github.com/Darkempire78/Amazing-Python-Modules#downloader)
 * [Image](https://github.com/Darkempire78/Amazing-Python-Modules#image)
-* [Machin learning](https://github.com/Darkempire78/Amazing-Python-Modules#machin-learning)
+* [Machin learning](https://github.com/Darkempire78/Amazing-Python-Modules#machine-learning)
 * [Music](https://github.com/Darkempire78/Amazing-Python-Modules#music)
 * [Request](https://github.com/Darkempire78/Amazing-Python-Modules#request)
 * [Social media](https://github.com/Darkempire78/Amazing-Python-Modules#social-media)
@@ -47,7 +47,7 @@ A sorted list of the best python modules, famous or not.
 |[Nude.py](https://github.com/hhatto/nude.py)|Nudity detection.|Sync|False|![](https://img.shields.io/github/last-commit/hhatto/nude.py?style=for-the-badge&label=)|
 |[Augmentor](https://github.com/mdbloice/Augmentor)|Image augmentation library for machine learning.|Sync|False|![](https://img.shields.io/github/last-commit/mdbloice/Augmentor?style=for-the-badge&label=)|
 
-## MACHIN LEARNING
+## MACHINE LEARNING
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
