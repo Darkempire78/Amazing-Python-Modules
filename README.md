@@ -2,6 +2,7 @@
 A sorted list of the best python modules, famous or not. 
 
 ## Index :
+* [Data](https://github.com/Darkempire78/Amazing-Python-Modules#data)
 * [Database](https://github.com/Darkempire78/Amazing-Python-Modules#database)
 * [Downloader](https://github.com/Darkempire78/Amazing-Python-Modules#downloader)
 * [Image](https://github.com/Darkempire78/Amazing-Python-Modules#image)
@@ -14,6 +15,13 @@ A sorted list of the best python modules, famous or not.
 * [Web](https://github.com/Darkempire78/Amazing-Python-Modules#web)
 * [Others](https://github.com/Darkempire78/Amazing-Python-Modules#others)
 
+
+## DATA
+
+| NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
+| ------------- | ------------- | :-------------: | :-------------: | :-------------: |
+|[Youtube search python](https://github.com/alexmercerind/youtube-search-python)|Search for YouTube videos, channels & playlists & get video information using link WITHOUT YouTube Data API v3.|Sync|False|![](https://img.shields.io/github/last-commit/alexmercerind/youtube-search-python?style=for-the-badge&label=)|
+|[Ytpy](https://github.com/madeyoga/ytpy/)|Asynchronous wrapper for searching for youtube videos.|Async|False|![](https://img.shields.io/github/last-commit/madeyoga/ytpy?style=for-the-badge&label=)|
 
 ## DATABASE
 
