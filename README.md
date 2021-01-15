@@ -105,6 +105,11 @@ A sorted list of the best python modules, famous or not.
 |[Notify-py](https://github.com/ms7m/notify-py)|A simple module for sending cross-platform desktop notifications on Windows, macOS and Linux.|Sync|False|![](https://img.shields.io/github/last-commit/ms7m/notify-py?style=for-the-badge&label=)|
 |[Mee6 py api](https://github.com/hyperevo/mee6-py-api)|Unofficial API for Mee6.|Async|False|![](https://img.shields.io/github/last-commit/hyperevo/mee6-py-api?style=for-the-badge&label=)|
 
+# Contributors
+
+<a href="https://github.com/Darkempire78/Amazing-Python-Modules/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Darkempire78/Amazing-Python-Modules" />
+</a>
 
 # Contribute
 
