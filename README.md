@@ -36,6 +36,8 @@ A sorted list of the best python modules, famous or not.
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
 |[Youtube dl](https://github.com/ytdl-org/youtube-dl)|Download videos from youtube.com or other video platforms.|Sync|False|![](https://img.shields.io/github/last-commit/ytdl-org/youtube-dl?style=for-the-badge&label=)|
+|[Pytube](https://github.com/pytube/pytube)|A library and command-line utility for downloading YouTube Videos.|Sync|False|![](https://img.shields.io/github/last-commit/pytube/pytube?style=for-the-badge&label=)|
+
 |[Deezloader](https://github.com/An0nimia/deezloader)|Download songs, albums or playlists with Spotify or Deezer link from Deezer.|Sync|True|![](https://img.shields.io/github/last-commit/An0nimia/deezloader?style=for-the-badge&label=)|
 |[Redvid](https://github.com/elmoiv/redvid)|Smart downloader for Reddit hosted videos.|Sync|False|![](https://img.shields.io/github/last-commit/elmoiv/redvid?style=for-the-badge&label=)|
 
