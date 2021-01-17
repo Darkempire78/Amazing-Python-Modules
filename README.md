@@ -77,7 +77,8 @@ A sorted list of the best python modules, famous or not.
 |[Tweepy](https://github.com/tweepy/tweepy)|Create Twitter bot easier.|Sync/Async|True|![](https://img.shields.io/github/last-commit/tweepy/tweepy?style=for-the-badge&label=)|
 |[Praw](https://github.com/praw-dev/praw)|A package that allows for simple access to Reddit's API.|Sync|True|![](https://img.shields.io/github/last-commit/praw-dev/praw?style=for-the-badge&label=)|
 |[Asyncpraw](https://github.com/praw-dev/asyncpraw)|An asynchronous package that allows for simple access to Reddit's API.|Async|True|![](https://img.shields.io/github/last-commit/praw-dev/asyncpraw?style=for-the-badge&label=)|
-| [TwitchIO](https://github.com/TwitchIO/TwitchIO) | An Async Bot/API wrapper for Twitch. | Async | True | ![](https://img.shields.io/github/last-commit/TwitchIO/TwitchIO?style=for-the-badge&label=) |
+|[TwitchIO](https://github.com/TwitchIO/TwitchIO) | An Async Bot/API wrapper for Twitch. | Async | True | ![](https://img.shields.io/github/last-commit/TwitchIO/TwitchIO?style=for-the-badge&label=)|
+|[Simple youtube api](https://github.com/jonnekaunisto/simple-youtube-api) | A Youtube API wrapper making it easier to search and upload your videos. | Sync | True | ![](https://img.shields.io/github/last-commit/jonnekaunisto/simple-youtube-api?style=for-the-badge&label=)|
 
 ## USER INTERFACE
 
