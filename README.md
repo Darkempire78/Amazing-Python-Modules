@@ -22,7 +22,7 @@ A sorted list of the best python modules, famous or not.
 
 | NAME | DESCRIPTION | SYNC/ASYNC | AUTHENTICATION  | LAST RELEASE |
 | ------------- | ------------- | :-------------: | :-------------: | :-------------: |
-|[Youtube search python](https://github.com/alexmercerind/youtube-search-python)|Search for YouTube videos, channels & playlists & get video information using link WITHOUT YouTube Data API v3.|Sync|False|![](https://img.shields.io/github/last-commit/alexmercerind/youtube-search-python?style=for-the-badge&label=)|
+|[Youtube search python](https://github.com/alexmercerind/youtube-search-python)|Search for YouTube videos, channels & playlists & get video information using link WITHOUT YouTube Data API v3.|Sync/Async|False|![](https://img.shields.io/github/last-commit/alexmercerind/youtube-search-python?style=for-the-badge&label=)|
 |[Ytpy](https://github.com/madeyoga/ytpy/)|Asynchronous wrapper for searching for youtube videos.|Async|False|![](https://img.shields.io/github/last-commit/madeyoga/ytpy?style=for-the-badge&label=)|
 
 ## DATABASE
