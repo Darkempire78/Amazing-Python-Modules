@@ -79,6 +79,7 @@ A sorted list of the best python modules, famous or not.
 |[Asyncpraw](https://github.com/praw-dev/asyncpraw)|An asynchronous package that allows for simple access to Reddit's API.|Async|True|![](https://img.shields.io/github/last-commit/praw-dev/asyncpraw?style=for-the-badge&label=)|
 |[TwitchIO](https://github.com/TwitchIO/TwitchIO) | An Async Bot/API wrapper for Twitch. | Async | True | ![](https://img.shields.io/github/last-commit/TwitchIO/TwitchIO?style=for-the-badge&label=)|
 |[Simple youtube api](https://github.com/jonnekaunisto/simple-youtube-api) | A Youtube API wrapper making it easier to search and upload your videos. | Sync | True | ![](https://img.shields.io/github/last-commit/jonnekaunisto/simple-youtube-api?style=for-the-badge&label=)|
+|[Instaloader](https://github.com/instaloader/instaloader) |  | Sync | True | ![](https://img.shields.io/github/last-commit/instaloader/instaloader?style=for-the-badge&label=)|
 
 ## USER INTERFACE
 
